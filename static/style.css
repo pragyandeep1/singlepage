@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: yellow;
+    color: red;
+    text-align: center;
+    margin-top: 4em;
+}
+
+ul{
+    margin-top: 30px;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+img{
+    height: 16em;
+    width: 20em;
+    margin: 2em;
+    border-radius: 50%;
+    // border: 5px solid red;
+}
+
+li{
+    text-align: center;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+button{
+    border: 2px solid red;
+    color: #fff;
+    background-color: green;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+.btn1{
+    border: 2px solid red;
+    color: #fff;
+    background-color: green;
+}
